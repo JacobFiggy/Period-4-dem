@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 /**
- * A basic Number Guesser game.
+ * A basic Number Guesser Game
  *
- * @author David Herring
+ * @author David 
  * @version 3/11/19
  */
 public class NumberGuesser
